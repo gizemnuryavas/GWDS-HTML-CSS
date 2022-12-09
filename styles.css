@@ -1,18 +1,23 @@
-body{
+body {
     background-color: purple;
 }
 
 p {
- font-family: monospace;
- text-align: center;
- color: lightpink;
+    font-family: monospace;
+    text-align: center;
+    color: lightpink;
 }
 
-h1,h2,h3,h4,h5,h6 {
- font-family: Verdana, Geneva, Tahoma, sans-serif;
- color: lightyellow;
- font-style: italic;
- text-align: right;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightyellow;
+    font-style: italic;
+    text-align: right;
 }
 
 h1 {
@@ -27,34 +32,34 @@ h2 {
 }
 
 .special {
- font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- font-weight: bold;
- font-size: 40px;
- text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
 }
 
 ul {
- list-style-type: square;
+    list-style-type: square;
 
 }
 
 ol {
- list-style-type: upper-roman;
+    list-style-type: upper-roman;
 
 }
 
 li {
- color: white;
- font-size: 20px;
- font-weight: bold;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-.fave{
- color: orangered;
+.fave {
+    color: orangered;
 
 }
 
-.pizza{
+.pizza {
 
     width: 50%;
 }
@@ -66,20 +71,20 @@ a {
 /* Cake Page */
 
 .cake-text {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-text-align: left;
-color: white;
-font-size: 25px;
-font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .section-one {
-background-color: darkslateblue;
+    background-color: darkslateblue;
 }
 
 .caption {
-font-size: 15px;
-font-style: italic;
+    font-size: 15px;
+    font-style: italic;
 }
 
 .container {
@@ -91,18 +96,18 @@ font-style: italic;
 }
 
 .cake-item {
-width: 275px;
-height: 275px;
-padding: 4px;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
 }
 
 .cake-group {
-width: 275px;
+    width: 275px;
 
 }
 
 .caption {
-font-size: 15px;
-font-style: italic;
-text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
 }
